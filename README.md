@@ -1,4 +1,4 @@
 # blogPessoal-v2
 
-<h1>Documentação do meu blog Pessoal</h1>
+<h3>Documentação do meu blog Pessoal</h3>
 https://alonsomendes.github.io/doc-blogPessoalv2/
